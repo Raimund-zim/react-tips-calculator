@@ -1,6 +1,6 @@
 # Tips calculator
 
-<a href="https://ibb.co/N77RSNX"><img src="https://i.ibb.co/QXX0dHZ/2022-08-01-231443177.png" alt="tips calculator preview"></a>
+<img src="https://i.ibb.co/QXX0dHZ/2022-08-01-231443177.png" alt="tips calculator preview">
 
 ## [Demo](https://raimund-zim.github.io/react-tips-calculator/)
 
