@@ -2,6 +2,8 @@
 
 <a href="https://ibb.co/N77RSNX"><img src="https://i.ibb.co/QXX0dHZ/2022-08-01-231443177.png" alt="tips calculator preview"></a>
 
+## [Demo](https://raimund-zim.github.io/react-tips-calculator/)
+
 ## About project
 
 **This tip calculator was created as part of a learning project. Allows you to calculate the payment for each person, including tips**
