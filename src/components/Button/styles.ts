@@ -18,9 +18,4 @@ export const StyledButton = styled.button`
     opacity: 30%;
     cursor: default;
   }
-  @media (max-width: 576px) {
-    width: 100vw;
-    height: 60px;
-    padding: 0 15.65px 0;
-  }
 `;

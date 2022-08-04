@@ -1,7 +1,8 @@
 import styled from "styled-components";
 
 export const StyledInput = styled.input`
-  padding: 19px 117px;
+  width: 100%;
+  padding: 19px 0;
   margin-top: 10px;
   background-color: #ffffff;
   border-radius: 30px;
@@ -14,9 +15,5 @@ export const StyledInput = styled.input`
   ::-webkit-outer-spin-button {
     -webkit-appearance: none;
     margin: 0;
-  }
-  @media (max-width: 576px) {
-    width: 100vw;
-    height: 50px;
   }
 `;
